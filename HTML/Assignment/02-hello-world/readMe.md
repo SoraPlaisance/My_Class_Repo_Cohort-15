@@ -1,1 +1,0 @@
-# This is an introduction into creating your first HTML document.
